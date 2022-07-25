@@ -10,4 +10,6 @@ public class Address {
     private String state; // -> default("Turkey")
     private String province;
     private String zipCode;
+
+
 }
